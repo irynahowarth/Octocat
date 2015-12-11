@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+git-clone is a command which cdownloads a project and its version history into a newly created directory.
